@@ -39,7 +39,7 @@ El proyecto se compone de los siguientes microservicios:
 
 ## ⚙️ Cómo ejecutar los microservicios
 
-1. Asegúrate de tener instalado Java 17 y Maven.
+1. Asegúrate de tener instalado Java 21 y Maven.
 2. Entra a cada carpeta de microservicio y ejecuta:
 
 ```bash
